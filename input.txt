@@ -1,0 +1,4 @@
+"HA" "H2" "S3" "D4" "C5"
+"HA" "HK" "H2" "H4" "HT"
+"SA" "HA" "CA" "C2" "C5"
+"SA" "HA" "CA" "C2" "C5"
